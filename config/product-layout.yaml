@@ -28,9 +28,9 @@
 # the delivery of this work
 ################################################################################
 header:
-  productName: REPLACEME
-  productionDescription: REPLACEME
-  whoIsItFor: REPLACEME
+  productName: Client360
+  productionDescription: Client360 Cloud ERP is a  cloud based customer and business management portal. It uses  state-of-the-art technology platform  to deliver a working solution. 
+  whoIsItFor: Client360 Cloud Enterprises is a Cloud Based ERP company developing specialized vertical market software for commercial space.
   image: 
     link: "/assets/images/Fiserv_Logo.jpg"
     altText: REPLACEME™
