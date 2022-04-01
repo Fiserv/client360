@@ -4,7 +4,7 @@
   "brand": "Fiserv",
   "brandLogoURL": "",
   "solution": ["merchants"],
-  "brandDescription": "REPLACE ME > Fiserv, Inc. is a global provider of payments and financial services technology solutions. The Company provides account processing and digital banking solutions, card issuer processing and network services, payments, e-commerce, merchant acquiring and processing, and the Clover cloud-based point-of-sale solution. The Company operates through three segments: Merchant Acceptance (Acceptance), Financial Technology (Fintech) and Payments and Network (Payments).",
+  "brandDescription": "Fiserv, Inc. is a global provider of payments and financial services technology solutions.",
   "categories": [
     {
       "name": "businessTypes",
@@ -23,14 +23,14 @@
         "version": "1.0.0",
         "versionType": "major",
         "releaseNotesPath": "/release-notes/release-notes-1.0.0.md",
-        "apiSpecFileNames": ["api-1.0.0"]
+        "apiSpecFileNames": ["CPT.Services.Case.WebApi"]
       }
   ],
   "product": {
     "featured": true,
     "logoURL": "",
-    "description": "Client360 Cloud ERP is a  cloud based customer and business management portal.",
-    "longDescription":"Client360 Cloud ERP is a  cloud based customer and business management portal.",
+    "description": "Client360-InquiryPoint system is a self-service portal.",
+    "longDescription":"Client360-InquiryPoint system is a self-service portal.",
     "apiSpecification": "/v1/apis/Client360",
     "layout": "/v1/layouts/Client360",
     "documentation": "/v1/docs/Client360",
@@ -40,7 +40,7 @@
     "feature": [
       {
         "name": "sandBox",
-        "value": true
+        "value": false
       },
       {
         "name": "plugins",
