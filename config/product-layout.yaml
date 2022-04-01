@@ -29,8 +29,8 @@
 ################################################################################
 header:
   productName: Client360
-  productionDescription: Client360 Cloud ERP is a  cloud based customer and business management portal. It uses  state-of-the-art technology platform  to deliver a working solution. 
-  whoIsItFor: Client360 Cloud Enterprises is a Cloud Based ERP company developing specialized vertical market software for commercial space.
+  productionDescription: Client360-InquiryPoint system is a self-service portal.
+  whoIsItFor: Client360 is a team-specific InquiryPoin for Fiserv business units.
   image: 
     link: "/assets/images/Fiserv_Logo.jpg"
     altText: REPLACEME™
